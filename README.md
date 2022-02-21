@@ -1,6 +1,8 @@
 # Eye-Exercise
 
-Project Description: This project utilizes a combination of HTML, CSS and JavaScript by displaying a pair of eyes (styled with CSS) on a single webpage (structred with HTML) that are programmed to follow the movement of the mouse on the screen (programmed with JavaScript)
+Project Description: This project utilizes a combination of HTML, CSS and JavaScript by displaying a pair of eyes (styled with CSS) on a single webpage (structred with HTML) that are programmed to follow the movement of the mouse on the screen (programmed with JavaScript).
+
+How to Run: Save the file to your system by downloading the index.html file in this repository. After saving, drag and drop the file onto your browser. Once the page has loaded, drag your mouse icon over the screen to prompt the pair of eyes to follow where ever it leads. 
 
 Roadmap of Future Improvements: Looking ahead, I would like to change the color of the eyes to randomly populate a different color every time the page is reloaded, and I would also like to add in additional functionality that allows the eyes to "blink" on every mouse click.
 
